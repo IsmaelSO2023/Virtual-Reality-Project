@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "1.getting_started__ex09.exe (C:\\Users\\Administrateur\\Desktop\\Tisga\\Projet VR\\bin\\1.getting_started\\1.getting_started__ex09.exe)",
+      "name": "1.getting_started__ex09.exe (C:\\Users\\Administrateur\\Desktop\\Tisga\\Projet VR\\bin\\1.getting_started\\1.getting_started__ex09.exe)"
+    }
+  ]
+}
