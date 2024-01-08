@@ -1,6 +1,6 @@
 ## Windows construction
 All relevant libraries can be found in /libs and all DLLs in /dlls (pre)compiled for Windows. 
-The Github link https://github.com/IsmaelSO2023/Virtual-Reality-Project/upload/main
+The Github link https://github.com/IsmaelSO2023/Virtual-Reality-Project
 The CMake script knows where to find the libraries, so all you have to do is run the CMake script and generate this virtual reality project.
 3D data, textures, etc. can be found in /resources
 Bear in mind that the libraries supplied have been generated with a specific version of the compiler which may or may not work on your system (generating a large number of linking errors). In this case, we recommend that you compile the libraries yourself from source.
